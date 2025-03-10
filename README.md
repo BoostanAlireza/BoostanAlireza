@@ -27,30 +27,53 @@ I'm excited to dive into Artificial Intelligence & Machine Learning, leveraging 
 
 ### **🧪 Tech Stack**  
 
-#### **Backend Development**  
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-**Frameworks:** ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)  
-**Databases:** ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-**ORM:** ![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white)  
-**Asynchronous Processing & Caching:** ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-
-#### **Testing & Debugging**  
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)  
-
-#### **Performance Monitoring**  
-![Silk](https://img.shields.io/badge/Silk-F7C223?style=for-the-badge)  
-
-#### **Version Control & Collaboration**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
-#### **DevOps & Deployment**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) CI/CD (_Planning to learn more!_)  
+<table>  
+<tr>  
+  <th>Languages</th>  
+  <th>Frameworks</th>  
+  <th>Databases</th>  
+  <th>Asynchronous & Caching</th>  
+  <th>Testing & Monitoring</th>  
+  <th>Version Control</th>  
+  <th>DevOps & Deployment</th>  
+</tr>  
+<tr>  
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  </td>  
+  <td>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>  
+  </td>  
+  <td>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>  
+  </td>  
+  <td>
+    <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>  
+  </td>  
+  <td>
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Silk-F7C223?style=for-the-badge"/>  
+  </td>  
+  <td>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+  </td>  
+  <td>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
+    CI/CD (_Planning to learn more!_)  
+  </td>  
+</tr>  
+</table>  
 
 ---
 
-### **📌 Featured Projects**  
+### **📌 Sample Projects**  
 
-🚧 _Work in progress... (List key projects with descriptions & links to repos)_  
+🚧 _I have done these projects as sample works to showcase my skills and knowledge_  
 
 - **🛂 eCommerce API** – A full-featured eCommerce backend using Django, DRF, MySQL.  
 - **📝 Blog Platform** – A simple blog with user authentication, categories, and comments.  
